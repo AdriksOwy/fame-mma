@@ -1,0 +1,94 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "first_nick": "TheNitroZyniak",
+      "second_nick": "TheUnboxall",
+      "first_name": "Sergiusz Górski",
+      "second_name": "Paweł Smektalski",
+      "title": "FAME MMA PLAYER",
+      "first_image": "/assets/cards/NITRO_FAME_MMA.webp",
+      "second_image": "/assets/cards/UNBOXALL_FAME_MMA.webp"
+    },
+    {
+      "id": "2",
+      "first_nick": "Popek",
+      "second_nick": "Parke",
+      "first_name": "Paweł Mikołajuw",
+      "second_name": "Norman Parke",
+      "title": "FAME MMA PLAYER",
+      "first_image": "/assets/cards/POPEK_FAME_MMA.webp",
+      "second_image": "/assets/cards/PARKE_FAME_MMA.webp"
+    },
+    {
+      "id": "3",
+      "first_nick": "Polak",
+      "second_nick": "Ferrari",
+      "first_name": "Adrian Polański",
+      "second_name": "Amadeusz Roślik",
+      "title": "FAME MMA PLAYER",
+      "first_image": "/assets/cards/POLAK_FAME_MMA.webp",
+      "second_image": "/assets/cards/FERRARI_FAME_MMA.webp"
+    },
+    {
+      "id": "4",
+      "first_nick": "Szeli",
+      "second_nick": "Arab",
+      "first_name": "Piotr Szeliga",
+      "second_name": "Gabriel Al-Sulwi",
+      "title": "FAME MMA PLAYER",
+      "first_image": "/assets/cards/SZELI_FAME_MMA.webp",
+      "second_image": "/assets/cards/ARAB_FAME_MMA.webp"
+    },
+    {
+      "id": "5",
+      "first_nick": "Hejter",
+      "second_nick": "Takefun",
+      "first_name": "Mariusz Słoński",
+      "second_name": "Rafał Górniak",
+      "title": "FAME MMA PLAYER",
+      "first_image": "/assets/cards/HEJTER_FAME_MMA.webp",
+      "second_image": "/assets/cards/TAKEFUN_FAME_MMA.webp"
+    },
+    {
+      "id": "6",
+      "first_nick": "Malczyński",
+      "second_nick": "Ponczek",
+      "first_name": "Dawid Malczyński",
+      "second_name": "Paweł Sikora",
+      "title": "FAME MMA PLAYER",
+      "first_image": "/assets/cards/MALCZYNSKI_FAME_MMA.webp",
+      "second_image": "/assets/cards/PONCZEK_FAME_MMA.webp"
+    },
+    {
+      "id": "7",
+      "first_nick": "Japczan",
+      "second_nick": "Pasut",
+      "first_name": "Jakub Piotrowicz",
+      "second_name": "Robert Pasut",
+      "title": "FAME MMA PLAYER",
+      "first_image": "/assets/cards/JAPCZAN_FAME_MMA.webp",
+      "second_image": "/assets/cards/PASUT_FAME_MMA.webp"
+    },
+    {
+      "id": "8",
+      "first_nick": "Patrykos",
+      "second_nick": "Kuba Post",
+      "first_name": "Patryk Domke",
+      "second_name": "Jakub Postaremczak",
+      "title": "FAME MMA PLAYER",
+      "first_image": "/assets/cards/PATRYKOS_FAME_MMA.webp",
+      "second_image": "/assets/cards/KUBAPOST_FAME_MMA.webp"
+    },
+    {
+      "id": "9",
+      "first_nick": "WayOfBlonde",
+      "second_nick": "Linkimaster",
+      "first_name": "Karolina Brzuszczyńska",
+      "second_name": "Marta Linkiewicz",
+      "title": "FAME MMA PLAYER",
+      "first_image": "/assets/cards/WAYOFBLONDE_FAME_MMA.webp",
+      "second_image": "/assets/cards/LINKIMASTER_FAME_MMA.webp"
+    }
+  ]
+}

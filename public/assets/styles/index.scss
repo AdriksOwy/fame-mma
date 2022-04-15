@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$size: 15px;
+$shadow-color: inset 0 0 10px rgba(0, 0, 0, .5);
+$background-color: rgba(0, 0, 0);
+$background-color-scrollbar: rgba(210, 0, 0, 1);
+
+html {
+  scroll-behavior: smooth;
+  background-color: $background-color;
+}
+
+::-webkit-scrollbar {
+  width: $size;
+  box-shadow: $shadow-color;
+
+  &-thumb {
+    box-shadow: $shadow-color;
+    background-color: $background-color-scrollbar;
+  }
+}
